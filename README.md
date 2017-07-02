@@ -16,7 +16,8 @@ Because you can describe ClaSS in 4 words: Simple, Modern, Customizable and Prac
 ------------------------------------------------------------------------------------------------------------------------------
                               TUTORIAL - How to install ClaSS in your HTML document
 ------------------------------------------------------------------------------------------------------------------------------
-1.- Download ClaSS.css - Go to https://daveround.github.io/ClaSS/download.html
-2.- Install ClaSS.css
- - In your project folder, put the file into the css one
- - In the head of your index.html add <link rel="stylesheet" type="text/css" href="css/ClaSS.css" />
+1.- Download ClaSS.css                                                                                                      
+- Go to https://daveround.github.io/ClaSS/download.html                                                                      
+2.- Install ClaSS.css                                                                                                          
+- In your project folder, put the file into the css one                                                                     
+- In the head of your index.html add <link rel="stylesheet" type="text/css" href="css/ClaSS.css" />
