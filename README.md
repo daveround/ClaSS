@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------
-                                                DESCRIPTION - What is ClaSS?                                                   
+                                         DESCRIPTION - What is ClaSS?                                                   
 ------------------------------------------------------------------------------------------------------------------------------
 ClaSS is a CSS file in which you can create an original website without having knowledge of CSS.
 
@@ -9,7 +9,7 @@ ClaSS works through HTML classes: in the file there is a list with all the class
 If you still do not understand it goes another way: ClaSS is a kind of Bootstrap but with a different design, with new animations and more customizable.
 
 ------------------------------------------------------------------------------------------------------------------------------
-                                            WHY - Why choose ClaSS and not others
+                                     WHY - Why choose ClaSS and not others
 ------------------------------------------------------------------------------------------------------------------------------
 Because you can describe ClaSS in 4 words:
       - Simple
@@ -18,7 +18,7 @@ Because you can describe ClaSS in 4 words:
       - Practical
 
 ------------------------------------------------------------------------------------------------------------------------------
-                                     TUTORIAL - How to install ClaSS in your HTML document
+                               TUTORIAL - How to install ClaSS in your HTML document
 ------------------------------------------------------------------------------------------------------------------------------
 1.- Download ClaSS.css - Go to https://daveround.github.io/ClaSS/download.html
 2.- Install ClaSS.css
