@@ -11,14 +11,10 @@ If you still do not understand it goes another way: ClaSS is a kind of Bootstrap
 ------------------------------------------------------------------------------------------------------------------------------
                                      WHY - Why choose ClaSS and not others
 ------------------------------------------------------------------------------------------------------------------------------
-Because you can describe ClaSS in 4 words:
-      - Simple
-      - Modern
-      - Customizable
-      - Practical
+Because you can describe ClaSS in 4 words: Simple, Modern, Customizable and Practical
 
 ------------------------------------------------------------------------------------------------------------------------------
-                               TUTORIAL - How to install ClaSS in your HTML document
+                              TUTORIAL - How to install ClaSS in your HTML document
 ------------------------------------------------------------------------------------------------------------------------------
 1.- Download ClaSS.css - Go to https://daveround.github.io/ClaSS/download.html
 2.- Install ClaSS.css
