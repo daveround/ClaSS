@@ -6,8 +6,8 @@ ClaSS is a CSS file in which you can create an original website without having k
 ClaSS works through HTML classes: in the file there is a list with all the classes you can enter.
 
 EXAMPLES
-HTML - div class="fill-text">Hello world!</div>
-CSS  - .fill-text { font-family: arial; Font-size: 12px; }
+HTML - div class="fill-text"                                                                                              
+CSS  - .fill-text { font-family: arial; Font-size: 12px; }                                                                    
 
 If you still do not understand it goes another way: ClaSS is a kind of Bootstrap but with a different design, with new animations and more customizable.
 
